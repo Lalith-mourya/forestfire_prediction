@@ -11,6 +11,7 @@ To deploy this project, run the following commands:
 ```bash
 pip install -r requirements.txt
 
+```bash
 ## 📂 Project Structure
 
 fwi-prediction-app/
@@ -26,6 +27,4 @@ fwi-prediction-app/
 │
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
+
