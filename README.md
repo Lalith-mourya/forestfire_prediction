@@ -10,3 +10,21 @@ To deploy this project, run the following commands:
 
 ```bash
 pip install -r requirements.txt
+## 📂 Project Structure
+
+fwi-prediction-app/
+│
+├── app.py # Main Flask application
+├── models/
+│ ├── ridge.pkl # Trained Ridge Regression model
+│ └── scaler.pkl # Fitted StandardScaler object
+│
+├── templates/
+│ ├── index.html # Home/landing page
+│ └── home.html # Prediction input form and result display
+│
+└── README.md # Project documentation
+
+yaml
+Copy
+Edit
